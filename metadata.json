@@ -1,0 +1,10 @@
+{
+  "name": "Remix: ethiolottory-bingo",
+  "description": "A high-stakes Telegram Mini App for Bingo players, featuring a unique 400-card system, secure wallet management, and weekly prize pools.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
